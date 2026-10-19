@@ -12,13 +12,13 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "NEOKEX AI 💀",
-  "prefix": "-",
+  "nickNameBot": "Aizen🗿",
+  "prefix": "^",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": [],
+  "adminBot": ["61590006837163"],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
@@ -123,8 +123,9 @@
     "unsendOnReaction": {
       "enable": true,
       "reactions": [
-        "😠",
-        "😡"
+        "😾",
+        "😡",
+        "😤"
       ],
       "notes": "when a bot admin (role 2) reacts with one of the reactions below on a message sent by the bot, the bot will unsend that message. Add or remove emojis in the reactions array to change which ones trigger the unsend."
     },
